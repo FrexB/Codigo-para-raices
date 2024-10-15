@@ -4,6 +4,7 @@ using namespace std;
 int main() {
     int A, B, C;
     double D, x1, x2; // Usamos double para las raíces
+    cout<<"CODIGO CREADO POR DIEGO DE 3RO DE PROGRAMACION";
 
     // Leer los coeficientes
     cin >> A >> B >> C;
